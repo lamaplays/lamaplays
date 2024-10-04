@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lamaplays;
 - 👀 I’m interested in game development;
-- 🌱 I’m currently learning java & C++;
+- 🌱 I’m currently learning java, C#, python;
 - 💞️ I’m looking to collaborate on beginner's freindly projects '-'   ;
 - 📫 How to reach me through my email: lamamostlyplays@gmail.com <3;
 
