@@ -1,4 +1,4 @@
-### heyo, its lama (lmma)
+### heyo, its lama (lma)
 
 - studying computer scienece in UT
 - interested in AI/ML, gamedev and 3D desion✨                                            
