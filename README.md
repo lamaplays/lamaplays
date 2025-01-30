@@ -1,9 +1,8 @@
-### heyo
+### heyo, its lama (lmma)
 
-- its @lamaplays
-- studying computer scienece in UT,
-- interested in AI/ML, gamedev and 3D desion✨                                             
-- you can  reach me through my [email](lamamostlyplays@gmail.com )<3;
+- studying computer scienece in UT
+- interested in AI/ML, gamedev and 3D desion✨                                            
+- you can  reach me through my [email](lamamostlyplays@gmail.com )<3
 
 <!---
 lamaplays/lamaplays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
