@@ -1,6 +1,6 @@
 ### heyo, its lama (lma)
 
-- studying computer scienece in UT
+- studying computer scienece in UT👩‍💻
 - interested in AI/ML, gamedev and 3D desion✨                                            
 - you can  reach me through my [email](lamamostlyplays@gmail.com )<3
 
