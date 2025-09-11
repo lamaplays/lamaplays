@@ -1,7 +1,7 @@
 ### heyo, its lama (lma)
 
-- i love building software that can impact👩‍💻
-- interested in AI/ML, gamedev and 3D desion✨                                            
+- i love building software
+- interested in AI/ML, gamedev and 3D design👾                             
 - you can  reach me through my [email](lamamostlyplays@gmail.com )<3
 
 <!---
