@@ -1,6 +1,6 @@
 ### heyo, its lama (lma)
 
-- interested in AI/ML, gamedev and 3D design👾                             
+- I love building software and exploring AI with the help of python.                             
 - you can  reach me through my [email](lamamostlyplays@gmail.com )<3
 
 - [my personal site](https://lamaplays.github.io/)
