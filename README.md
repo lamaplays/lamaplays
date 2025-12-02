@@ -1,4 +1,4 @@
-### heyo, its lama (lma)✨
+### heyo, its lama✨
 
 - I love building software and exploring AI with the help of python🐍.                             
 - you can  reach me through my [email](lamamostlyplays@gmail.com )<3
